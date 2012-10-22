@@ -1,4 +1,4 @@
-<?php
+ <?php
 //sample header and footer functions
 function page_header(){
 
@@ -27,5 +27,3 @@ echo
 
 END;
 }
-
-?>
